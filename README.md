@@ -76,7 +76,7 @@ AI-Chat-Assistant/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<saurav-01s>/ai-chat-assistant.git
+git clone https://github.com/<vaibhavsharma-coder>/AI-ASSISTANT.git
 cd ai-chat-assistant
 ```
 
